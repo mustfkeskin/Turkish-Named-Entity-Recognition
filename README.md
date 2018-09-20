@@ -20,7 +20,7 @@ https://github.com/niwatolli3/wikipedia-category-csv
 
 graph_analysis.ipynb notebook çalıştırılarak elde edilir.
 
-4) Belli kategoriler ait ontolojilerin oluşturularak otomatik veri etiketleme altyapının oluşturulması
+4) Belli kategoriler ait ontolojiler çıkartılarak otomatik veri etiketleme altyapısının oluşturulması
 coming soon...
 
 5) Etiketli veri ile farklı modellerin eğitilmesi
