@@ -17,4 +17,11 @@ extract_wikipedia_hierarchy.ipynb notebook çalıştırılarak wikipedia hiyerar
 https://github.com/niwatolli3/wikipedia-category-csv
 
 3)Elde edilen hiyerarşiden graf çıkartılması ve tüm yaprak düğümlere ait bilgilerin toplanması
+
 graph_analysis.ipynb notebook çalıştırılarak elde edilir.
+
+4) Belli kategoriler ait ontolojilerin oluşturularak otomatik veri etiketleme altyapının oluşturulması
+coming soon...
+
+5) Etiketli veri ile farklı modellerin eğitilmesi
+coming soon...
