@@ -14,6 +14,9 @@ gunzip trwiki-latest-page.sql.gz
 2) Wikipedia Hiyerarşisini elde etme
 
 extract_wikipedia_hierarchy.ipynb notebook çalıştırılarak wikipedia hiyerarşisi çıkartılır.
+
+Aşağıdaki çalışma örnek alınmıştır.
+
 https://github.com/niwatolli3/wikipedia-category-csv
 
 3)Elde edilen hiyerarşiden graf çıkartılması ve tüm yaprak düğümlere ait bilgilerin toplanması
